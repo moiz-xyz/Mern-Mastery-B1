@@ -10,7 +10,6 @@ Welcome to the **Full-Stack Web Development Bootcamp** – a beginner-friendly, 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,bootstrap,github,vite,firebase" />
 </p>
 
----
 
 ## 📦 Modules Overview
 
