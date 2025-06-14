@@ -1,0 +1,85 @@
+body{
+    background-color: pink;
+}
+
+
+.name {
+    font-style: normal;
+}
+#para{
+    text-transform : capitalize;
+}
+.under{
+    text-decoration :line-through;
+}
+.lineheigt{
+    line-height: 10px;
+}
+  
+#spacing{
+    letter-spacing: 3px;
+    word-spacing: 10px  ;
+}
+
+.left{
+    text-align: left;
+}
+.Right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+.textindent{ 
+text-indent: 100%;
+}
+.one {
+background-color: white;
+color: gray;
+text-shadow: 100px #000000;}
+.two {
+background-color: white;
+color: green;
+text-shadow: 1px 1px 2px green;}
+.three {
+background-color: #cccccc;
+color: #ffffff;
+text-shadow: 2px 2px 7px #111111;}
+.four {
+background-color: #bbbbbb;
+color: #cccccc;
+text-shadow: -1px -2px #666666;}
+
+
+.intro:first-letter {
+font-size: 200%;
+}
+/* .intro:first-line {
+font-weight: bold;
+} */
+
+
+
+
+a {
+color: deeppink;
+text-decoration: underline;
+font-size: xx-large;
+}
+.box1{
+    width: 30%;
+    height: 200px;
+    background-color: black;
+}
+.box2{
+    width: 30%;
+    height: 200px;
+    background-color: orange;
+}.box3{
+    width: 30%;
+    height: 100px;
+    background-color: red;
+}
