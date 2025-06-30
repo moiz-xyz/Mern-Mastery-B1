@@ -1,0 +1,35 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); */
+body {
+font-family: Arial, Verdana, sans-serif;
+color: #665544;
+/* height: 10000vh; */
+background-repeat: no-repeat;
+/* background-repeat: repeat;
+background-repeat: repeat-x; 
+background-repeat: repeat-y; */
+background-position:center;
+background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg");
+background-size:cover;
+        }
+h1 {
+    background-color: #efefef;
+    padding: 10px;}
+    p {
+        width: 450px;
+    }
+    .two{
+ float: center;
+ width: 100%;
+ font-size: 130%;
+ font-style: italic;
+ font-family: Georgia, Times, serif;
+ margin: 0px 0px 10px 10px;
+ padding: 10px;
+ border-top: 1px solid #665544;
+ border-bottom: 1px solid #665544;
+}
+.img{
+    width: 50%;
+    height: 100vh;
+}
+
